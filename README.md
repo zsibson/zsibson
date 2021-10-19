@@ -1,4 +1,4 @@
-<p>hi! i'm zac. ✌️</p>
+<p style="color: blue;">hi! i'm zac. ✌️</p>
 <p>currently developing my front-end skills ⚡️</p>
 <p>my goal is to get hired by Dec '22 👨🏻‍💻</p>
 
