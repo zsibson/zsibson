@@ -1,6 +1,6 @@
 <p>hi! i'm zac. ✌️</p>
 <p>currently developing my front-end skills ⚡️</p>
-<p>my goal is to get hired by Dec '22 👨🏻‍💻</p>
+<p>calling > career 🌎</p>
 
 <!---
 zsibson/zsibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
