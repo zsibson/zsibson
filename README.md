@@ -1,5 +1,5 @@
-<p>hi! i'm zac. ✌<br>
-currently developing my front-end skills ⚡️<br>
+<p>hi! i'm zac. ✌<br><br>
+currently developing my front-end skills ⚡️<br><br>
 calling > career 🌎</p>
 
 <!---
