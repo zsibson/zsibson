@@ -1,5 +1,5 @@
 <p>hi! i'm zac. ✌<br><br>
-currently developing my front-end skills ⚡️<br><br>
+currently a student at devmountain for fullstack web development⚡️<br><br>
 calling > career 🌎</p>
 
 <!---
