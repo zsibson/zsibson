@@ -1,4 +1,4 @@
-<p>hi! i'm zac. ✌<br><br>
+<p>i'm zac. ✌<br><br>
 currently a student at devmountain for fullstack web development⚡️<br><br>
 calling > career 🌎</p>
 
